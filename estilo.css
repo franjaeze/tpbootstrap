@@ -13,9 +13,14 @@ p {
 }
 #abajo{
 
-    background-color:rgb(18, 65, 97)
+    background-color:rgb(18, 65, 97);
+    font-size: small;
 }
 
 .form1, .form2 {
     max-width: 200px;
 }
+.boldbutton{
+    font-weight: bold;
+}
+
