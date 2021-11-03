@@ -13,14 +13,17 @@ p {
 }
 #abajo{
 
-    background-color:rgb(18, 65, 97);
-    font-size: small;
+    background-color:rgb(18, 65, 97)
 }
 
 .form1, .form2 {
     max-width: 200px;
 }
-.boldbutton{
-    font-weight: bold;
-}
 
+#cajaresultado{
+    background-color: rgb(194, 227, 247);
+    border-radius: 5px;
+    border: 1px solid rgb(167, 215, 245);
+    color: rgb(49, 51, 104);
+    font-size: large;
+}
